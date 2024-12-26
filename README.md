@@ -31,9 +31,13 @@ Run the scripts in your preferred environment.
 bash
 Copy code
 bioinformatics-programming-basics/
+
 ├── data/                   # Input files for the tasks
+
 ├── python/                 # Python scripts
+
 ├── R/                      # R scripts
+
 ├── README.md               # Documentation
 
 ### 6. Acknowledgments
