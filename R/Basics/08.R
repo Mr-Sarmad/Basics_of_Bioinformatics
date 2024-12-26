@@ -1,0 +1,5 @@
+### Extract sequences from a GFF file based on a specific feature type (e.g., CDS or exon)
+library(GenomicFeatures)
+txdb <- makeTxDbFromGFF("C:/Users/PC/Downloads/Compressed/ncbi_dataset/ncbi_dataset/data/GCF_009914755.1/genomic.gff")
+cds <- cds(txdb)
+write.table(as.data.frame(cds), "extracted_cds.txt", sep = "\t", row.names = FALSE)
