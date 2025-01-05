@@ -28,9 +28,6 @@ Place input files (e.g., FASTA, GFF) in the data directory.
 Run the scripts in your preferred environment.
 
 ### 5. Repository Structure
-bash
-Copy code
-bioinformatics-programming-basics/
 
 ├── data/                   # Input files for the tasks
 
