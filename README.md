@@ -1,13 +1,6 @@
 ### Bioinformatics Programming Basics
 This repository contains solutions to 50 fundamental bioinformatics programming tasks, implemented in both Python and R. These tasks are designed to help beginners understand and solve common bioinformatics problems, focusing on sequence data, genomic annotations, and basic data analysis.
-
-### Contents
-Introduction
-Features
-Requirements
-Usage
-Repository Structure
-Acknowledgments
+s
 
 ### 1. Introduction
 This project provides practical solutions for essential bioinformatics tasks, such as working with sequence files (FASTA, FASTQ), genomic annotations (GFF, GTF), and gene expression data. The repository is aimed at students and researchers who are new to bioinformatics programming.
@@ -37,5 +30,6 @@ Run the scripts in your preferred environment.
 
 ├── README.md               # Documentation
 
+├── Questions.txt          # Basics bioinformatics questions that we answer in the both python and R according to the Questions 
 ### 6. Acknowledgments
 This repository is a resource for learning and applying bioinformatics programming. It is designed to help users build foundational skills in Python and R while solving real-world biological data challenges.
