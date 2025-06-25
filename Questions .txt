@@ -1,0 +1,50 @@
+1. Read a FASTA file and print the sequence IDs.
+2. Write a script to count the number of sequences in a FASTA file.
+3. Parse a FASTQ file and calculate the average quality score of each sequence.
+4. Extract all sequences from a multi-FASTA file that are longer than 500 bp.
+5. Convert a multi-line FASTA format into a single-line FASTA format.
+6. Write a script to reverse-complement DNA sequences in a FASTA file.
+7. Split a large FASTA file into smaller files containing 100 sequences each.
+8. Write a script to extract sequences from a GFF file based on a specific feature type (e.g., CDS or exon).
+9. Merge multiple FASTA files into a single file.
+10. Rename the headers in a FASTA file using a predefined mapping file.
+11. Write a script to find duplicate sequences in a FASTA file.
+12. Parse a tab-delimited file and filter rows based on specific criteria (e.g., a column value threshold).
+13. Convert a tab-delimited gene expression matrix to a CSV format.
+14. Extract and save unique gene names from a GTF file.
+15. Generate a BED file from a GFF file.
+16. Remove sequences with ambiguous bases (e.g., N) from a FASTA file.
+17. Write a script to identify the longest ORF (open reading frame) in a given sequence file.
+18. Sort sequences in a FASTA file by their length.
+19. Write a script to detect and remove duplicate lines in a tab-delimited file.
+20. Extract promoter regions (e.g., 1000 bp upstream of the gene) from a genome FASTA file.
+21. Write a script to fetch protein sequences from UniProt by their accession IDs using an API.
+22. Retrieve nucleotide sequences from NCBI's Entrez database for a given list of gene IDs.
+23. Download genome assemblies from a public database (e.g., Ensembl or UCSC Genome Browser) using wget or curl.
+24. Parse BLAST output (in tabular format) to extract top hits for each query sequence.
+25. Use an API to retrieve GO terms associated with a list of gene IDs.
+26. Write a script to batch download PDB files for a list of protein IDs.
+27. Extract SNP data for a given region from a VCF file.
+28. Retrieve taxonomy information for a given species using the NCBI Taxonomy database.
+29. Write a script to extract functional annotations from a KEGG pathway database.
+30. Use a public API (e.g., Ensembl REST API) to retrieve exon coordinates for a specific gene.
+31. Write a Python function to calculate GC content for a given DNA sequence.
+32. Implement a sliding window algorithm to calculate GC content in a genome.
+33. Write a script to translate a DNA sequence into its corresponding protein sequence.
+34. Develop a script to identify palindromic sequences in a DNA sequence file.
+35. Create a script to calculate pairwise sequence identity between two FASTA files.
+36. Write a script to simulate random mutations in a DNA sequence with a given mutation rate.
+37. Parse a phylogenetic tree file (e.g., Newick format) and list all leaf node names.
+38. Write a script to calculate Ka/Ks ratios from codon-aligned sequences.
+39. Develop a script to find motifs in a given DNA sequence using regular expressions.
+40. Implement a script to convert RNA sequences into DNA sequences by replacing U with T.
+41. Extract and visualize coverage depth from a BAM file.
+42. Write a script to identify differentially expressed genes from a gene expression matrix.
+43. Parse a HMMER output file and extract significant hits based on E-value threshold.
+44. Implement a Markov model to generate random DNA sequences.
+45. Analyze a multiple sequence alignment (MSA) file to calculate conservation scores.
+46. Write a script to identify syntenic regions between two genome assemblies.
+47. Create a pipeline to run BLAST on multiple input sequences and summarize the results.
+48. Write a script to perform codon optimization for a given DNA sequence.
+49. Parse a PDB file to extract secondary structure information.
+50. Simulate sequence evolution under a given substitution model using a library like BioPython.
